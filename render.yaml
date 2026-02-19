@@ -3,7 +3,7 @@ services:
 - type: web
   name: my-type-is-the-bag
   runtime: node
-  repo: https://github.com/FrogiesArcade/FrogiesArcade-v3-Portable
+  repo: https://github.com/J105588/FrogiesArcade-v3-Portable
   plan: free
   region: oregon
   buildCommand: npm i
